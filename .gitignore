@@ -1,0 +1,5 @@
+nba-sql
+*.sql*
+csv/
+.go-tetris*
+.env
